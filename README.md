@@ -12,13 +12,15 @@
 ขั้นตอนการบันทึก file from Google collaborate to gather.com
 
 ขั้นตอนที่ 1 
-
-         สร้าง text โดยการ กดที่ cell ข้างบนของ code
-         ![README](messageImage_1608730347993)
+ สร้าง text โดยการ กดที่ cell ข้างบนของ code
+         
+![README](messageImage_1608730347993)
+         
          เขียน text ที่ต้องการลงไป
          markdown เป็น Heading
          เขียน code คือ print('วัชรืนทร์')
          ตัวอย่างรูปภาพ
+         
          ![README](messageImage_1608730541320)
          
 ขั้นตอนที่ 2
