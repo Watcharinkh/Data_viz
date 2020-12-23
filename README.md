@@ -8,9 +8,11 @@
 ![README](unnamed.png)
 
 #การบ้านครั้งที่1
+
 ขั้นตอนการบันทึก file from Google collaborate to gather.com
 
 ขั้นตอนที่ 1 
+
          สร้าง text โดยการ กดที่ cell ข้างบนของ code
          เขียน text ที่ต้องการลงไป
          markdown เป็น Heading
@@ -20,12 +22,14 @@
          
          
 ขั้นตอนที่ 2
+
          สร้าง Create a new repository
          กำหนดชื่อที่จะสร้าง
          กด public 
          Initialize this repository with เลือก Add a README file
          กด Create repository
          ตัวอย่าง
+         
          
          
          
@@ -47,7 +51,17 @@
          
          
   ขั้นตอนที่ 3
+  
           เข้า colab หน้าที่เราสร้างไว้ 
           กด file 
                  เลือก Save a copy as a GitHub Gist
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
          
