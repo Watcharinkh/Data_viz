@@ -8,7 +8,7 @@
 
 #การบ้านครั้งที่1
 
-ขั้นตอนการบันทึก file from Google collaborate to gather.com
+ขั้นตอนการบันทึก file from Google collaborate to github.com
 
 ขั้นตอนที่ 1 
 
@@ -20,7 +20,7 @@
 
 markdown เป็น Heading
 
-เขียน code คือ print('วัชรืนทร์')
+เขียน code คือ print('วัชรินทร์')
 
 ตัวอย่างรูปภาพ
          
@@ -49,23 +49,33 @@ Initialize this repository with เลือก Add a README file
 
 พิมพ์ ชื่อ-นามสกุล รหัสนักศึกษา
 
+![README](messageImage_1608731826196.jpg)
+
 เเทรกรูปที่ต้องการ
 
 กด Add file 
 
 กด upload file
 
+![README](messageImage_1608731944214.jpg)
+
 เลือกไฟล์รูปที่ต้องกดอัปโหลด 
 
-กด commit cahage
+![README](messageImage_1608732083945.jpg)
+
+กด commit chage
+
+![README](messageImage_1608732130845.jpg)
 
 เมื่อ commit change รูปเรียบร้อยเเล้ว
 
 กดเเก้ไข READ.md
 
+![README](messageImage_1608732338827.jpg)
+
 เขียนโค้ดเพื่อเเทรกรูป 
 
-ตัวอย่าง
+![README](messageImage_1608732449237.jpg)
          
          
 ขั้นตอนที่ 3
@@ -75,8 +85,27 @@ Initialize this repository with เลือก Add a README file
 กด file 
 
 เลือก Save a copy as a GitHub Gist
+
+![README](messageImage_1608732661100.jpg)
+
+เมื่อ save เรียบร้อยเเล้วจะขึ้นหน้าต่อไปนี้
                  
-                 
+![README](messageImage_1608732907510.jpg)
+
+ต่อไป กด save in a copy GitHub
+
+![README](messageImage_1608732714165.jpg)
+
+เมื่อกดsave in a copy GitHub จะขึ้นหน้าต่อไปนี้ เลือกrepositoryเเละกด ok
+
+![README](messageImage_1608732691297.jpg)
+
+เมื่อกด ok เรียบร้อยเเล้ว โปรเเกรมจะรันกลับไปที่ GitHub
+
+![README](messageImage_1608732759590.jpg)
+
+เสร็จสิ้นกระบวนการบันทึก file from Google collaborate to github.com
+
                  
                  
                  
